@@ -6,12 +6,13 @@
 </picture>
 </div>
 
-<h3 align="center">Kinotio pioneers cutting-edge library and platform solutions.</h3>
+<h3 align="center">Kinotio is a vibrant community of developers building open-source projects.</h3>
 
-<p align="center">Our mission is to transform the landscape of digital technologies with innovative and impactful solutions.
+<p align="center">We're dedicated to creating innovative solutions in SaaS, CLI tools, and libraries.</p>
 
 <div align="center">
 
 [Join our Discord](https://discord.gg/cskvbKQA)
 
 </div>
+
