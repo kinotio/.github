@@ -4,7 +4,7 @@
     </picture>
 </div>
 
-<h3 align="center">We're dedicated to creating innovative solutions in SaaS, CLI tools, and libraries./h3>
+<h3 align="center">We're dedicated to creating innovative solutions in SaaS, CLI tools, and libraries.</h3>
 
 <div align="center">
 
