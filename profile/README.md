@@ -4,9 +4,7 @@
     </picture>
 </div>
 
-<h3 align="center">kinotio.io is a vibrant community of developers building open-source projects.</h3>
-
-<p align="center">We're dedicated to creating innovative solutions in SaaS, CLI tools, and libraries.</p>
+<h3 align="center">We're dedicated to creating innovative solutions in SaaS, CLI tools, and libraries./h3>
 
 <div align="center">
 
